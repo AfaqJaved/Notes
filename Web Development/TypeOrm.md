@@ -169,9 +169,15 @@ For using Decorators in Typescript For enable the following properties in **tsco
 
 ## One To Many
 
+one to many from left to right (user - todo)
+many to one from right to left (todo - user)
+
 ![[diagram-export-29-10-2023-21_53_32.png]]
 
 
 ## Many To Many
+
+left to right one to many (student - courses)
+right to left one to many (course - students)
 
 ![[diagram-export-29-10-2023-21_57_37.png]]
