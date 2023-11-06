@@ -33,4 +33,32 @@ Prisma works fundamentally different compared to that. With Prisma, you define y
 - Update Single or multiple Records.
 - Delete Single or multiple Records
 
+# Relations
+
+
+
+### Referential actions
+ 
+Referential actions determine what happens to a record when your application deletes or updates a related record.
+
+ - Cascade
+ - Restrict
+ - NoAction
+ - Set Null
+
+## One To One
+
+![[Screenshot 2023-11-05 at 12.22.17 pm.png]]
+
+![[Screenshot 2023-11-05 at 12.22.56 pm.png]]!
+
+
+![[Screenshot 2023-11-05 at 12.23.16 pm.png]]
+
+
+## One To Many
+
+![[Screenshot 2023-11-06 at 11.47.05 am.png]]
+
+## Many To Many
 
