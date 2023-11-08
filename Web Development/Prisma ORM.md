@@ -58,6 +58,9 @@ Referential actions determine what happens to a record when your application del
 
 ## One To Many
 
+Left To Right User Can Have Many Post
+Right To Left Single Post will always belong to a Single User
+
 ![[Screenshot 2023-11-06 at 11.47.05 am.png]]
 
 ## Many To Many
