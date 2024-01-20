@@ -165,14 +165,14 @@ For using Decorators in Typescript For enable the following properties in **tsco
 ### One To One
 
 
-![[diagram-export-29-10-2023-18_35_53.png]]
+![[diagram-export-29-10-2023-18_35_53 1.png]]
 
 ## One To Many
 
 one to many from left to right (user - todo)
 many to one from right to left (todo - user)
 
-![[diagram-export-29-10-2023-21_53_32.png]]
+![[diagram-export-29-10-2023-21_53_32 1.png]]
 
 
 ## Many To Many
@@ -180,4 +180,4 @@ many to one from right to left (todo - user)
 left to right one to many (student - courses)
 right to left one to many (course - students)
 
-![[diagram-export-29-10-2023-21_57_37.png]]
+![[diagram-export-29-10-2023-21_57_37 1.png]]
